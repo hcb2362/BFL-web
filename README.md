@@ -25,5 +25,5 @@ For development, `cd` to the project folder, then use `python myapp.py` to start
 
 A Waitress production server can be started by `python production.py`.
 
-I made a change. -Hannah
+Nate is a robot. -Hannah
 
